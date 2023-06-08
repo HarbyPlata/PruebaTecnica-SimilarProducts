@@ -1,0 +1,8 @@
+com/zara/similarproducts/infraestructure/inputadapter/http/SimilarProductsAPI.class
+com/zara/similarproducts/application/outputport/SimilarProductOutPutPort.class
+com/zara/similarproducts/domain/Product.class
+com/zara/similarproducts/application/usecase/SimilarProductOrchestrator.class
+com/zara/similarproducts/SimilarProductsApplication.class
+com/zara/similarproducts/application/usecase/SimilarProductOrchestrator$1.class
+com/zara/similarproducts/infraestructure/outputadapter/http/ProductAdapterRest.class
+com/zara/similarproducts/application/inputport/SimilarProductsInputPort.class

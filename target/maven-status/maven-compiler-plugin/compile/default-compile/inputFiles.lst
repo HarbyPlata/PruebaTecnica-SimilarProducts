@@ -1,0 +1,7 @@
+/home/hplata1/POC/API_SimilarProducts/similarproducts/src/main/java/com/zara/similarproducts/infraestructure/outputadapter/http/ProductAdapterRest.java
+/home/hplata1/POC/API_SimilarProducts/similarproducts/src/main/java/com/zara/similarproducts/application/usecase/SimilarProductOrchestrator.java
+/home/hplata1/POC/API_SimilarProducts/similarproducts/src/main/java/com/zara/similarproducts/domain/Product.java
+/home/hplata1/POC/API_SimilarProducts/similarproducts/src/main/java/com/zara/similarproducts/application/inputport/SimilarProductsInputPort.java
+/home/hplata1/POC/API_SimilarProducts/similarproducts/src/main/java/com/zara/similarproducts/infraestructure/inputadapter/http/SimilarProductsAPI.java
+/home/hplata1/POC/API_SimilarProducts/similarproducts/src/main/java/com/zara/similarproducts/application/outputport/SimilarProductOutPutPort.java
+/home/hplata1/POC/API_SimilarProducts/similarproducts/src/main/java/com/zara/similarproducts/SimilarProductsApplication.java
